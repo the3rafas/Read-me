@@ -30,6 +30,9 @@
 <h1 align="center">Welcome to my space ✨</h1>
 
 ###
+<p align="left">You will not find much here. All rights saved to my company.</p>
+
+###
 
 <h3 align="left">🗣️ About Me</h3>
 
