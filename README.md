@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I am Muhammad from New Damietta<br><br>- 🔭 I work as a backend developer at Bayanat.com<br>- 📚 I am currently learning what is behind databases and exactly how they work<br>- ⚡ In my spare time I am a handball player 🤾‍♂️, and I also play chess<br>- 🧠 I like to be aware of all aspects of things in order to arrive at the best solutions that do not affect their surroundings</p>
+<p align="left">I am Mohammad from New Damietta<br><br>- 🔭 I work as a backend developer at <a href="https://www.baianat.com/">Baianat.com</a><br>- 📚 I am currently learning what is behind databases and exactly how they work<br>- ⚡ In my spare time I am a handball player 🤾‍♂️, and I also play chess<br>- 🧠 I like to be aware of all aspects of things in order to arrive at the best solutions that do not affect their surroundings</p>
 
 ###
 
@@ -84,13 +84,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 
+<p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the3rafas&" alt="the3rafas" /></p>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img src="https://camo.githubusercontent.com/c2877247f7c0a5825ef41ff30b86acffd42ac23272514f92d21d9eef7f9cca41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6573746a732d2532334530323334452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
@@ -102,11 +101,13 @@
 ###
 
 <div align="center">
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the3rafas&show_icons=true&locale=en" alt="the3rafas" /></p>
-</div>
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=the3rafas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the3rafas&show_icons=true&locale=en" alt="the3rafas" /></p>
 </div>
 
 ###
