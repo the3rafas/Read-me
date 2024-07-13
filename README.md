@@ -83,6 +83,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the3rafas&show_icons=true&locale=en&layout=compact" alt="the3rafas" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the3rafas&show_icons=true&locale=en" alt="the3rafas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the3rafas&" alt="the3rafas" /></p>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
